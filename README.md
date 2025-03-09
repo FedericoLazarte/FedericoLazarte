@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/federico-lazarte-123930239/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.com/users/TU_ID_NUMÉRICO" target="_blank">
+<a href="https://discord.com/users/federicolazarte" target="_blank">
 <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
