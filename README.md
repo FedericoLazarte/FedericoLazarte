@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h2 style="color: #f5f5f5;">Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/sharif-islam96403/sharif-islam96403/blob/main/CatCode.gif">
 <br>
 <a href="https://www.linkedin.com/in/federico-lazarte-123930239/" target="_blank">
@@ -11,7 +11,7 @@
 
 <br /><br />
 
-<p>
+<p style="color: #f5f5f5;">
   👋 Hi, I'm <strong>Federico Lazarte</strong> from Buenos Aires, Argentina.<br />
   🎓 I'm currently studying a <strong>Programming Technician Degree</strong> at <strong>Universidad Nacional de General Sarmiento</strong>.<br />
   💻 I'm interested in <strong>back-end development</strong> and always looking to improve my skills.<br />
@@ -19,9 +19,9 @@
 
 <br />
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b style="color: #F4A300;">Skills</b>
 
-<p align="center">
+<p align="center" style="color: #f5f5f5;">
 
 <strong>Languages:</strong><br><br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +62,7 @@
 </p>
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FedericoLazarte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Federico Lazarte Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=FedericoLazarte&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=#F4A300&icon_color=#F4A300&text_color=D3D3D3&bg_color=0A0A0A" alt="Federico Lazarte Github Stats">
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FedericoLazarte&layout=compact&theme=dark&bg_color=0A0A0A" alt="Federico Lazarte Top Languages"/>
