@@ -39,7 +39,7 @@ public class TechStack {
 
 <div align="center">
 Languages
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[!Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 
 Frameworks
