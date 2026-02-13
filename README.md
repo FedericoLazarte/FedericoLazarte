@@ -39,15 +39,27 @@ public class TechStack {
 
 <div align="center">
 Languages
-[!Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+ <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
 
 Frameworks
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+ <a href="https://hibernate.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+  </a>
+    <a href="https://spring.io/" target="_blank"> 
+      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  </a>
 
 Databases
-https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+<a href="https://www.postgresql.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="postgresql"/> 
+  </a>
 
 Tools
 https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
