@@ -55,9 +55,6 @@ Databases
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FedericoLazarte=anuraghazra&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-🐍 My Contributions
-<div align="center"> <img src="https://github.com/FedericoLazarte/FedericoLazarte/blob/output/github-contribution-grid-snake.svg" /> </div>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR-SPOTIFY)
