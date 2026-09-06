@@ -54,9 +54,8 @@ Databases
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-<img src="https://img.shields.io" />
-</p>
+![Estadísticas de Federico](https://vercel.app)
+
+![Rachas de Federico](https://herokuapp.com)
+
 
