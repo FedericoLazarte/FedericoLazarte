@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  # Se ejecuta automáticamente todos los días a la medianoche
+  schedule: [{cron: "0 0 * * *"}]
+  # Te permite activarlo manualmente cuando quieras
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: FedericoLazarte
+          template: classic
+          base: header, activity, community, repositories, metadata
