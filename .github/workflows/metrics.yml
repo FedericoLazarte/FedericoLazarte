@@ -1,12 +1,12 @@
 name: Metrics
 on:
-  # Se ejecuta automáticamente todos los días a la medianoche
   schedule: [{cron: "0 0 * * *"}]
-  # Te permite activarlo manualmente cuando quieras
   workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
