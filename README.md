@@ -54,6 +54,6 @@ Databases
 
 </div>
 
-![](https://lecoq.io)
+![Mis Estadísticas de GitHub](github-metrics.svg)
 
 
