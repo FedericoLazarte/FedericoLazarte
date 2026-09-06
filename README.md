@@ -54,8 +54,6 @@ Databases
 
 </div>
 
-![Estadísticas de Federico](https://vercel.app)
-
-![Rachas de Federico](https://herokuapp.com)
+![](https://lecoq.io)
 
 
