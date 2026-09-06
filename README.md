@@ -50,10 +50,8 @@ Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 </div>
 
-![Mis Estadísticas de GitHub](github-metrics.svg)
-
-
+<p align="center">
+  <img src="github-metrics.svg" alt="Mis Estadísticas de GitHub">
+</p>
